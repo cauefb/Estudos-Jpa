@@ -1,4 +1,4 @@
-# Estudos-JpaRepositopry
+# Estudos-JpaRepository
 
 Repositorio para estudos JpaRepository
 
